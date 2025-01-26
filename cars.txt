@@ -1,0 +1,8 @@
+1,Maruti Swift,MH 26 BL 8288,2000
+3,Maruti Brezza,MH 12 RJ 3399,2500
+4,Toyota Glanza,MH 01 AA 1234,2200
+5,Toyota Innova,MH 06 AX 5461,4000
+6,Mahindra Thar,MH 14 BB 7984,3500
+7,Renault Triber,MH 28 HD 8521,2800
+2,Maruti Swift,MH 26 BH 5672,2000
+8,Kia Seltos,MH 07 RT 0007,3100
